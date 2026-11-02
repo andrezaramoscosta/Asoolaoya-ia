@@ -1,1 +1,4 @@
+name: Aso Ọlaọya IA - Instagram Stories
 
+on:
+  workflow_dispatch:
